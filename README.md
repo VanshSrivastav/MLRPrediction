@@ -1,7 +1,7 @@
-A program that demonstrates my passion for learning as well as to showcase my beginner understanding of machine learning
-This is also to showcase my Version Control knowledge as well as to show some of my python skills
-This is a simple program to predict the house price of unit area of a piece of real estate
-The market historical data was collected from Xindian Dist. New Taipei City in Taiwan
+A program that demonstrates my passion for learning as well as to showcase my beginner understanding of machine learning.
+This is also to showcase my Version Control knowledge as well as to show some of my python skills.
+This is a simple program to predict the house price of unit area of a piece of real estate.
+The market historical data was collected from Xindian Dist. New Taipei City in Taiwan.
 The data set is available for download at the following link:
 https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction/discussion/196387
 
